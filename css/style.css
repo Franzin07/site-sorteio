@@ -1,0 +1,26 @@
+body{
+    background-image: url(pcgamer\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size:30%;
+    background-position-x:12.5cm;
+    background-position-y: 3.5cm;
+    
+}
+body{
+    background-color: rgba(82, 196, 224, 0.507);
+}
+div{
+    background-color:rgba(23, 153, 228, 0.623);
+    width: fit-content;
+    height: fit-content;
+    color: rgb(0, 0, 0);
+    margin: auto;
+    padding: 1em;
+    border-radius: 10px;
+}
+form{
+    text-align:center;
+}
+form label{
+    text-align:unset;
+}
